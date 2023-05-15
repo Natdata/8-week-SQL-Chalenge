@@ -1,4 +1,4 @@
-# 8-week-SQL-Chalenge
+# 8-week-SQL-Challenge
 
 I am learning SQL by doing through multiple realistic end to end case studies that closely represent the sort of work we perform in a data analytics role and includes datasets and case studies from the following domains:
 
